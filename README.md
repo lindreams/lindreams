@@ -50,8 +50,8 @@
 
 ### 🎮 Side Quests
 
-- **[Codex Arcade](https://github.com/lindreams/codex-arcade)** — 一个晚上做出来的 Codex 小插件。等 AI 工作的时候，顺手玩两把小游戏。
-- **[Pixel Outlaw](https://github.com/lindreams/pixel-outlaw)** — 没做完的西部像素射击小游戏，基本是 AI 搭起来的。后来跑去做 Echo，就先搁置了。
+- **[Codex Arcade](https://github.com/lindreams/codex-arcade)** — 为等待 Codex 工作时的空档做的小游戏插件，一晚上的小尝试。
+- **[Pixel Outlaw](https://github.com/lindreams/pixel-outlaw)** — 一次以 AI 辅助生成代码为主的西部像素游戏尝试。还没做完，暂时搁置中。
 
 ---
 
