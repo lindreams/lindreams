@@ -26,7 +26,7 @@
     </td>
     <td width="45%" valign="top">
       <a href="https://github.com/lindreams/spire-qq-bot">
-        <img src="./assets/projects/spire.svg" width="100%" alt="Spire QQ Bot" />
+        <img src="./assets/projects/spire.webp" width="100%" alt="Spire QQ Bot — illustrated Slay the Spire-inspired banner" />
       </a>
       <br />
       <strong><a href="https://github.com/lindreams/spire-qq-bot">Spire QQ Bot</a></strong>
