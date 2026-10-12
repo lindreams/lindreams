@@ -1,6 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="740" height="310" viewBox="0 0 740 310" role="img" aria-label="Lindreams GitHub profile artwork"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#211c33"/><stop offset="1" stop-color="#342d45"/></linearGradient></defs><rect width="740" height="310" rx="18" fill="url(#bg)"/><rect x="16" y="16" width="708" height="278" rx="10" fill="none" stroke="#c7b6c9" opacity=".4" stroke-width="2"/>
- <rect x="42" y="43" width="9" height="9" fill="#d0a575"/><text x="63" y="53" fill="#c7b6c9" font-size="16" font-family="Verdana,DejaVu Sans,sans-serif" letter-spacing="2">PROJECT / 03</text>
- <text x="42" y="145" fill="#f5e5d5" font-size="47" font-weight="700" font-family="Verdana,DejaVu Sans,sans-serif" letter-spacing="-1">Spire QQ Bot</text>
- <rect x="42" y="168" width="52" height="5" rx="2" fill="#d0a575"/>
- <text x="42" y="219" fill="#c7b6c9" font-size="22" font-family="Verdana,DejaVu Sans,sans-serif">cards, relics &amp; chat.</text>
- <path d="M524 245 L544 206 L560 206 L573 157 L597 157 L611 103 L624 103 L635 157 L659 157 L671 206 L688 206 L704 245Z" fill="#5b455b" stroke="#be997b" stroke-width="5"/><rect x="600" y="183" width="32" height="62" rx="15" fill="#211c33"/><rect x="611" y="82" width="14" height="29" fill="#d0a575"/><path d="M597 104h42" stroke="#d0a575" stroke-width="5"/><g fill="#e8c8a3"><rect x="560" y="219" width="12" height="17"/><rect x="659" y="219" width="12" height="17"/><rect x="590" y="169" width="8" height="13"/><rect x="641" y="169" width="8" height="13"/></g><rect x="466" y="79" width="78" height="51" rx="15" fill="#d0a575"/><path d="M525 129l12 15-8-22" fill="#d0a575"/><circle cx="487" cy="104" r="5" fill="#392f42"/><circle cx="506" cy="104" r="5" fill="#392f42"/><circle cx="525" cy="104" r="5" fill="#392f42"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="310" viewBox="0 0 740 310" role="img" aria-label="Spire QQ Bot: cards, relics, events and the winding climb">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#241f2b"/><stop offset=".62" stop-color="#3c2c37"/><stop offset="1" stop-color="#584137"/></linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ebd5af"/><stop offset="1" stop-color="#bfa788"/></linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#964b48"/><stop offset="1" stop-color="#4b2833"/></linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5b8d79"/><stop offset="1" stop-color="#294c51"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="170%" height="170%"><feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#161119" flood-opacity=".42"/></filter>
+  </defs>
+  <rect width="740" height="310" rx="18" fill="url(#bg)"/>
+  <path d="M0 240 Q190 212 345 284 H0Z" fill="#271e2c" opacity=".4"/>
+  <path d="M450 0L510 0L410 310L360 310Z" fill="#c9a989" opacity=".045"/>
+  <path d="M340 0L353 0L263 310L245 310Z" fill="#f1cf97" opacity=".055"/>
+  <rect x="16" y="16" width="708" height="278" rx="10" fill="none" stroke="#a98973" stroke-opacity=".55" stroke-width="1.5"/>
+  <path d="M37 282H379" stroke="#ad8a70" stroke-width="1" opacity=".45"/>
+  <rect x="42" y="43" width="9" height="9" rx="2" fill="#d5a575"/>
+  <text x="63" y="53" fill="#c3a990" font-size="16" font-family="Verdana,DejaVu Sans,sans-serif" letter-spacing="2">PROJECT / 02</text>
+  <text x="42" y="144" fill="#f5e8d1" font-size="47" font-weight="700" font-family="Verdana,DejaVu Sans,sans-serif" letter-spacing="-1">Spire QQ Bot</text>
+  <rect x="43" y="168" width="53" height="5" rx="2" fill="#c58c70"/>
+  <text x="42" y="217" fill="#cdb6a3" font-size="22" font-family="Verdana,DejaVu Sans,sans-serif">cards, relics &amp; events.</text>
+  <text x="43" y="262" fill="#9f867d" font-size="12" font-family="Verdana,DejaVu Sans,sans-serif" letter-spacing="2">THE SPIRE  /  STS 1 + STS 2</text>
+  <g transform="rotate(5 578 158)" filter="url(#shadow)">
+    <rect x="462" y="38" width="246" height="226" rx="8" fill="url(#paper)" stroke="#95745f" stroke-width="3"/>
+    <rect x="476" y="51" width="218" height="201" rx="3" fill="none" stroke="#967963" stroke-width="1" opacity=".75"/>
+    <text x="492" y="69" fill="#6f5148" font-size="13" font-weight="700" font-family="Georgia,DejaVu Serif,serif" letter-spacing="2">ACT I</text>
+    <path d="M501 230 Q510 203 532 194T564 151 Q578 129 590 107" fill="none" stroke="#80655e" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 8"/>
+    <path d="M532 194 Q563 207 596 212T667 185" fill="none" stroke="#80655e" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 8"/>
+    <g stroke="#856451" stroke-width="2.5" fill="#e5caa4"><circle cx="501" cy="229" r="11"/><circle cx="531" cy="194" r="13"/><circle cx="563" cy="151" r="10"/><circle cx="589" cy="108" r="11"/><circle cx="596" cy="211" r="10"/><circle cx="663" cy="184" r="11"/></g>
+    <text x="525" y="201" fill="#77534b" font-size="23" font-weight="700" font-family="Georgia,serif">?</text>
+    <path d="M496 233 l4-8 4 8m-6-3h5" fill="none" stroke="#9d5f43" stroke-width="2"/>
+    <path d="M659 189 l4-8 4 8" stroke="#8f6b50" stroke-width="2" fill="none"/>
+  </g>
+  <g transform="rotate(-12 551 143)" filter="url(#shadow)">
+    <rect x="507" y="66" width="95" height="165" rx="10" fill="#6e3536" stroke="#ca9b72" stroke-width="4"/>
+    <rect x="515" y="77" width="79" height="144" rx="7" fill="url(#red)" stroke="#dda881" stroke-opacity=".72"/>
+    <circle cx="519" cy="88" r="14" fill="#d4ad7f" stroke="#f3d09a" stroke-width="2"/>
+    <text x="514" y="95" font-size="17" font-weight="700" fill="#4f2830" font-family="Georgia,serif">1</text>
+    <path d="M547 125L563 174 M574 124L540 167" stroke="#e0c8a3" stroke-width="6" stroke-linecap="round"/>
+    <path d="M540 115l11 5-6 12-11-4zM573 115l12 7-9 11-10-6z" fill="#e0c8a3"/>
+    <path d="M530 182 H583 M530 192 H576 M533 206 H576" stroke="#dab295" stroke-width="3" stroke-linecap="round" opacity=".75"/>
+  </g>
+  <g transform="rotate(10 638 139)" filter="url(#shadow)">
+    <rect x="590" y="59" width="99" height="167" rx="10" fill="#31545a" stroke="#a7b69a" stroke-width="4"/>
+    <rect x="598" y="70" width="83" height="147" rx="7" fill="url(#green)" stroke="#b8cbb1" stroke-opacity=".7"/>
+    <circle cx="602" cy="82" r="14" fill="#b9cfbc" stroke="#f0e2a8" stroke-width="2"/>
+    <text x="597" y="89" font-size="17" font-weight="700" fill="#315557" font-family="Georgia,serif">1</text>
+    <path d="M641 114 l24 16 -9 28 -29 1 -8-27z" fill="#b5d4c1" stroke="#f5d9a1" stroke-width="3"/>
+    <path d="M641 114l1 47 M619 132l46-2" stroke="#46706a" stroke-width="2.5" opacity=".85"/>
+    <path d="M610 180 H667 M614 191 H662 M614 202 H654" stroke="#b2cebb" stroke-width="3" stroke-linecap="round" opacity=".68"/>
+  </g>
+  <g transform="translate(636 242)">
+    <ellipse cx="0" cy="0" rx="34" ry="25" fill="#24212b" opacity=".28"/>
+    <circle cx="0" cy="-3" r="21" fill="#a16f50" stroke="#e5bd7f" stroke-width="4"/>
+    <path d="M0-19 L13-3 L0 14 L-13-3Z" fill="#75ada1" stroke="#c8e6d1" stroke-width="2"/>
+    <path d="M0-19L0 14 L13-3Z" fill="#377e76" opacity=".8"/>
+  </g>
+</svg>
